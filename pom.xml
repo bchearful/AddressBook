@@ -58,7 +58,7 @@
 <dependency>
    <groupId>com.sun</groupId>
    <artifactId>tools</artifactId>
-	<systempath>${java.home}/../lib/tools.jar</systempath>
+	<systemPath>${java.home}/../lib/tools.jar</systemPath>
    
  </dependency>
         <dependency>
